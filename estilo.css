@@ -1,0 +1,33 @@
+body {
+	color: blue;
+	background: black;
+	}
+	header{
+		height: 300px;
+		}
+
+		span {
+			background: grey;
+			padding:8px;
+			text-align: right;
+		}
+		figure {
+			text-align: center;
+			padding: 1px;
+			}
+
+nav {
+	text-align: left;
+	}
+#contenido article {
+	width: 45%;
+	float: left;
+	margin:1%;
+	border: 2px solid red;
+	padding: 1%
+
+}
+	
+aside {
+       clear:both;
+       }
